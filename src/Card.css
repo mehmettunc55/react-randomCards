@@ -1,0 +1,59 @@
+
+  
+  .card-container{
+    box-shadow: 25px 24px 14px 3px rgba(0,0,0,0.89);
+    width:400px;
+    height:600px;
+    background-image: linear-gradient(
+      40deg,
+      rgb(199, 142, 37) 0%,
+    rgb(199, 142, 37) 45%,
+    rgb(0, 174, 255)  45%,
+    rgb(0, 174, 255)  55%,
+    rgb(199, 142, 37) 55%,
+    rgb(199, 142, 37) 100%
+    ); 
+  }
+
+  .picture{
+    border-radius: 50%;
+    
+    box-shadow: 2px 1px 28px 28px rgba(0,0,0,0.52);
+    position: relative;
+    left:30%;
+    top:-50px;
+  }
+
+  .name{
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    top:-30px;
+    color: indigo;
+  }
+  
+  .logo{
+    width:7vh;
+    position: relative;
+    left:18vh;
+    
+   
+  }
+    
+button {
+    position: relative;
+    bottom: 10px;
+    left:30%;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    background-color: #2992ee;
+    color: wheat;
+    border: 3px solid #022442;
+    }
+.info-text{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+  
