@@ -3,7 +3,7 @@
   .card-container{
     box-shadow: 25px 24px 14px 3px rgba(0,0,0,0.89);
     width:400px;
-    height:600px;
+    height:610px;
     background-image: linear-gradient(
       40deg,
       rgb(199, 142, 37) 0%,
@@ -33,7 +33,7 @@
     color: indigo;
   }
   
-  .logo{
+  .icons{
     width:7vh;
     position: relative;
     left:18vh;
